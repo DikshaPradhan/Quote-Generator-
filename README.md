@@ -1,2 +1,1 @@
-# Quote-Generator-
-My first project.
+# Quote-Generator
